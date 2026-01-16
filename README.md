@@ -7,3 +7,4 @@ colour
 1 commit: #9be9a8 (light green)
 2-3 commits: #40c463 (green)
 4-6 commits: #30a14e (dark green)
+7-8 commits: #216e39 (very dark green)
