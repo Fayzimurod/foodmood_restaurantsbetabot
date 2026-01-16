@@ -5,3 +5,4 @@ develop digital process
 colour 
 0 commits: #ebedf0 (light gray)
 1 commit: #9be9a8 (light green)
+2-3 коммита: #40c463 (зеленый)
