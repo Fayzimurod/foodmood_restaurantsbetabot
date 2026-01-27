@@ -8,6 +8,3 @@ colour
 2-3 commits: #40c463 (green)
 4-6 commits: #30a14e (dark green)
 7-8 commits: #216e39 (very dark green)
-
-
-go out and play basketball
